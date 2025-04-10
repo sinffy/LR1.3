@@ -7,5 +7,7 @@ int main()
 
 	std::cout << x + y << '\n';
 	x = 10;
+
+	std::cout << x - y << '\n';
 	return 0;
 }
